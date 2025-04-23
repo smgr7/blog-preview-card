@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://sourou-rico.github.io/blog-preview-card-main/]
 - Live Site URL: [https://smgr7.github.io/blog-preview-card/]
 
 ## My process
